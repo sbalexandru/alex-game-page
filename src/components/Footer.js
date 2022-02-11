@@ -1,10 +1,11 @@
 import React from "react";
+import { Container } from "./Footer.styled";
 
 const Footer = () => {
   return (
-    <div>
-      <p>ceva head</p>
-    </div>
+    <Container>
+      <p>ceva foot</p>
+    </Container>
   );
 };
 

@@ -1,10 +1,11 @@
 import React from "react";
+import { Container } from "./MainPage.styled";
 
 const MainPage = () => {
   return (
-    <div>
+    <Container>
       <p>ceva main</p>
-    </div>
+    </Container>
   );
 };
 
